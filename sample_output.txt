@@ -1,0 +1,27 @@
+=== Weekend Getaway Ranker Output ===
+
+--- Top Recommendations for Kolkata ---
+                    Name    City       State  est_distance_km  Google review rating  rank_score
+           Howrah Bridge Kolkata West Bengal               10                   4.6    0.840095
+Dakshineswar Kali Temple Kolkata West Bengal               10                   4.7    0.830275
+       Victoria Memorial Kolkata West Bengal               10                   4.6    0.817510
+              Belur Math Kolkata West Bengal               10                   4.7    0.810205
+    Science City Kolkata Kolkata West Bengal               10                   4.4    0.809324
+
+
+--- Top Recommendations for New Delhi ---
+                  Name      City State  est_distance_km  Google review rating  rank_score
+            India Gate New Delhi Delhi               10                   4.6    0.886375
+Gurudwara Bangla Sahib New Delhi Delhi               10                   4.8    0.849459
+              Red Fort New Delhi Delhi               10                   4.5    0.844108
+           Qutub Minar New Delhi Delhi               10                   4.5    0.839090
+          Lotus Temple New Delhi Delhi               10                   4.5    0.801579
+
+
+--- Top Recommendations for Bengaluru ---
+                    Name      City     State  est_distance_km  Google review rating  rank_score
+           Mysore Palace    Mysore Karnataka              150                   4.6    0.855728
+              Orion Mall Bengaluru Karnataka               10                   4.5    0.854758
+ ISKCON Temple Bangalore Bengaluru Karnataka               10                   4.6    0.837497
+Lalbagh Botanical Garden Bengaluru Karnataka               10                   4.4    0.836108
+             Cubbon Park Bengaluru Karnataka               10                   4.4    0.829086
