@@ -97,7 +97,7 @@ Follow the steps below to run the project locally.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [ github repo link of this project ](https://github.com/purkait03/Weekend-Getaway-Ranker.git)
+git clone https://github.com/purkait03/Weekend-Getaway-Ranker.git
 cd weekend-getaway-ranker
 pip install -r requirements.txt
 python weekend_ranker.py
